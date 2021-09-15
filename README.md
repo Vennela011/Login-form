@@ -1,3 +1,3 @@
 # Login-form
-Login form and Social media authentication
+Login form and Social media authentication page
 
