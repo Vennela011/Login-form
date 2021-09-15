@@ -1,0 +1,50 @@
+html{
+    margin: 0;
+    padding: 0; 
+    align-items:center;
+    justify-content: center;
+    /* background: rgb(185, 151, 183); */
+    background: rgb(240, 240, 247);
+    font-family:sans-serif;
+    }
+
+    body{
+        width:500px;
+        height:300px;
+        margin-top: 220px;
+        box-shadow: 0 0 40px 0px rgba(238, 203, 203, 0.26);
+        background-origin: border-box;
+        /* background-color: rgb(244, 10, 252); */
+        /* background-color: rgb(30, 64, 104); */
+        perspective:1000px;
+        margin-left: 530px;
+        background-position: center;
+        background-image: linear-gradient(rgba(0, 204, 255, 0.8),rgb(33, 201, 252));   
+    }  
+
+    h2{
+        position: absolute;
+        align-content: center;
+        /* height: 30em; */
+        color: white;
+        margin-left:30%;
+        margin-top: 30px;
+        /* margin-bottom: 200px; */
+    }
+    h3{
+        position: absolute;
+        align-content: center;
+        /* height: 30em; */
+        color: white;
+        margin-left:25%;
+        margin-top: 40px;
+        /* margin-bottom: 200px; */
+    }
+    .col{
+        position: absolute;
+        width: 350px;
+        height: 15em;
+        padding-left: 2em;
+        margin-left: 9em;
+        margin-top: 25%;
+    }
